@@ -1,16 +1,21 @@
 # Report
 
-For creating my Digital Literacy Awareness Infographic, 
-I used **NotebookLM** as my primary tool to organize content and generate structured insights, 
-which I then used to design a visually engaging infographic. 
-My design presents a complete overview of digital literacy by dividing it into key sections such as **understanding digital literacy, 
-useful digital tools for students, safe internet practices, professional online presence, and email etiquette**. 
-Each section highlights important points like using tools such as Google Docs and GitHub, maintaining strong passwords and online safety, 
-building a professional profile on platforms like LinkedIn, and following proper email communication standards. 
-The infographic is designed to be **clean, informative, and easy to understand**, using icons and a structured layout to make the content visually 
-appealing and accessible for students.
+# 📘 Digital Literacy Project
 
-One interesting aspect I found while creating this infographic was how multiple digital concepts can be combined into a single visual format 
-without making it cluttered. However, I also found it slightly challenging to balance detailed information with simplicity, 
-as too much content can reduce clarity. Overall, this task helped me better understand the importance of presenting 
-information in a **concise and visually effective way**.
+## 📌 Project Description
+
+This project is developed as part of the CSE0001 Digital Literacy course, where I have taken the role of a Student Digital Ambassador. The main objective of this project is to understand and promote digital literacy among students by creating awareness about essential digital skills, safe online practices, and professional communication in the digital world.
+
+The project consists of five tasks, each focusing on a different aspect of digital literacy. 
+
+In Task 1, I created a Digital Literacy Awareness Infographic using NotebookLM and design tools to present key concepts such as digital literacy, useful tools, safe internet practices, professional online presence, and email etiquette in a clear and visually engaging manner. 
+
+In Task 2, I built my digital portfolio by setting up profiles on platforms like GitHub and LinkedIn to establish a professional online identity.
+
+In Task 3, I explored coding and collaboration platforms by completing a coding challenge and creating a Google Form quiz for digital literacy awareness, with responses managed using Google Sheets. 
+
+In Task 4, I learned and applied professional communication skills by drafting formal emails and creating a social media do’s and don’ts checklist. Finally, 
+
+in Task 5, I studied cybercrime awareness by preparing a case study on UPI fraud and developing a prevention checklist to promote safe online behavior.
+
+Overall, this project helped me develop a strong understanding of digital tools, online safety, and professional digital communication. It has enhanced my ability to use technology responsibly and prepared me to become a confident and informed digital citizen.
